@@ -9,7 +9,7 @@ body {
   }
   
   .page {
-    width: 600px;
+    width: 1000px;
     margin: 0 auto;
     padding-top: 65px;
   }
@@ -19,12 +19,13 @@ body {
     justify-content: space-between;
     align-items: center;
   
-    margin-bottom: 15px;
+    margin-bottom: 55px;
   }
   
   ul {
     display: flex;
     list-style: none;
+    gap: 45px;
     margin: 0;
     padding: 0;
   }
