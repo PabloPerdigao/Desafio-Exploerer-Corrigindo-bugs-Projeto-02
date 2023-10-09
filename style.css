@@ -77,12 +77,13 @@ body {
     font-family: "Open Sans", sans-serif;
   
     background: #69B99D;
-    border: 0;
-    padding: 0 50px 30px;
+    border: none;
+    padding: 14px 32px 15px 32px;;
   
-    display: flex;
-    justify-content: space-around;
-    gap: 50px;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
   
     border-radius: 4px;
   
