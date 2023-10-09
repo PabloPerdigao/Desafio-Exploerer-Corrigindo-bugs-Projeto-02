@@ -11,7 +11,7 @@
 ## 💻 Projeto
 
 Esse projeto consiste em um desafio do Explorer da Rocketseat,onde devemos consertar um código do
-[projeto-02-explorer](https://github.com/PabloPerdigao/Projeto-01-Explorer),que sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não é mais da mesma forma que o Maykão ensinou na aula. 
+[projeto-02-explorer](https://github.com/PabloPerdigao/Desafio-Exploerer-Corrigindo-bugs-Projeto-02),que sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não é mais da mesma forma que o Maykão ensinou na aula. 
 
 <p align="center">
   <img alt="projeto 02" src="images/preview.png" width="100%">
