@@ -14,7 +14,7 @@ Esse projeto consiste em um desafio do Explorer da Rocketseat,onde devemos conse
 [projeto-02-explorer](https://github.com/PabloPerdigao/Projeto-01-Explorer),que sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não é mais da mesma forma que o Maykão ensinou na aula. 
 
 <p align="center">
-  <img alt="projeto 02" src=".images/preview.png" width="100%">
+  <img alt="projeto 02" src="images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-😉Feito com ♥ by Pablo Perdigão,aluno Explorer da Rocketseat!
-<br/>:wave: [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
+😉 Feito com ♥ by Pablo Perdigão,aluno Explorer da Rocketseat!
+<br/>📲 [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
 
